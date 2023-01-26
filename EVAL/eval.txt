@@ -1,0 +1,40 @@
+P1 
+
+m1: 100
+m2: 100
+m3: 100
+
+bonus: 
+
+
+P2
+
+m1: 80 
+note: 1) capacity should be string_size -1
+2) s1 == ab
+s2 == ab
+s3 == abc
+
+s1<s3 fails and also similar test cases. look at the variations where empty strings are involved. and write test cases for them
+m2: 100
+m3:  100
+m4: 100
+bonus: 
+
+P3 
+
+m1: 100
+m2: 100
+m3: 100
+
+bonus: 
+
+P4
+
+m1: 100
+m2:
+m3: 
+
+bonus: 
+
+

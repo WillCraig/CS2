@@ -1,0 +1,14 @@
+William Craig
+CS 23001
+
+
+//
+
+
+The function that was used the most was the subscript[] operator for std::vector, followed by the bubble_sort function and then the LESS_THAN function.
+
+While the bubble sort function was only called once, the cumulative time for the function running was 0.81 seconds. Other functions are called multiple thousand times within the bubble sort algorithm, such as the greater than and less than functions, primarily due to the inefficincy of the bubble sort algorithm.
+
+
+
+
